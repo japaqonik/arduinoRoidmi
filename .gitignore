@@ -1,1 +1,5 @@
-Release
+*.o
+*.d
+*.hex
+*.elf
+*.ar
